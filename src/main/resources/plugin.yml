@@ -1,0 +1,5 @@
+name: MadnessMultiplier
+version: ${project.version}
+main: me.nowaha.madnessmultiplier.MadnessMultiplier
+api-version: 1.13
+authors: [Nowaha]

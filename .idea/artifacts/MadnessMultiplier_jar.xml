@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MadnessMultiplier:jar">
+    <output-path>$USER_HOME$/Documents/Minecraft Servers/madnessmultiplier/plugins</output-path>
+    <root id="archive" name="MadnessMultiplier.jar">
+      <element id="module-output" name="MadnessMultiplier" />
+    </root>
+  </artifact>
+</component>

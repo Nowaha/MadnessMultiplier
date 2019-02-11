@@ -1,0 +1,5 @@
+name: MadnessMultiplier
+version: 1.0
+main: me.nowaha.madnessmultiplier.MadnessMultiplier
+api-version: 1.13
+authors: [Nowaha]
